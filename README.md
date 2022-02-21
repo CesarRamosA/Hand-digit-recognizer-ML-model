@@ -1,2 +1,5 @@
 # Hand-digit-recognizer-ML-model
-Using a neural networks ML model from sklearn, a handwritten digit recognizer is implemented
+
+## A neural networks ML model from sklearn is implemented to classify different handwritten digits
+
+### MNIST dataset is used for this a handwritten digit recognizer  
